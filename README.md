@@ -2,7 +2,7 @@
 
 GlobalConfy is a Conference Management System that manages conferences and articles that get reviewed within the system. 
 
-GlobalConfy is an open-source web application.
+GlobalConfy is an open-source web application..
 
 ## About
 
